@@ -6,7 +6,7 @@
 
 - 👨‍💻 Studied Computer Science at Sana'a University [https://su.edu.ye/en/)](https://su.edu.ye/en/))
 
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) <br>
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anassultanali&show_icons=true&theme=radical) <br>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/anas_sultan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anassultanali" height="30" width="40" /></a>
