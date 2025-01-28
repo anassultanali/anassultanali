@@ -1,25 +1,24 @@
-<h1 align="center">Hi 👋, I'm Anas Sultan</h1>
-<h3 align="center">Software Engineer sharing about my work and leanring journey ...</h3>
+# 💫 About Me:
+Hey there, I'm Anas Sultan! 👋<br>I'm a passionate software developer with a love for building Web Apps . <br>I enjoy solving problems and collaborating with others to create innovative solutions. <br>Currently, I'm diving deep into LARAVEL ,REACT.<br><br>🌱 Currently Learning: Adobe Photoshop ,Adobe Illustrator .<br>💻 Technologies & Tools: HTML5 ,CSS ,SASS ,JAVASCRIPT ,JQUERY ,REACT ,PHP ,MYSQL ,LARAVEL .<br>🔭 Projects I’m working on: ZIZO-Chat .<br>
 
 
-- 🔭 I’m currently working on [ZIZO Chat](-----)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anassultanali@gmail.com) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/anas_sultan_) 
 
-- 👨‍💻 Studied Computer Science at Sana'a University [https://su.edu.ye/en/)](https://su.edu.ye/en/))
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=anassultanali&theme=merko&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=anassultanali&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anassultanali&theme=merko&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anassultanali&show_icons=true&theme=radical) <br>
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://twitter.com/anas_sultan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anassultanali" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anassultanali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anassultanali" height="30" width="40" /></a>
-<a href="https://fb.com/anassultanali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anassultanali" height="30" width="40" /></a>
-<a href="https://instagram.com/anassultanali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anassultanali" height="30" width="40" /></a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<h2 align="left">Languages and Tools:</h2>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=anassultanali&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anassultanali&label=Profile%20views&color=0e75b6&style=flat" alt="anassultanali" /> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=anassultanali&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anassultanali" alt="anassultanali" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/anassultanali" target="blank"><img src="https://img.shields.io/twitter/follow/anassultanali?logo=twitter&style=for-the-badge" alt="anassultanali" /></a> </p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
