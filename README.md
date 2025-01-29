@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there, I'm <b>Anas Sultan!</b> 👋<br>I'm a passionate software developer with a love for building Web Apps . <br>I enjoy solving problems and collaborating with others to create innovative solutions. <br>Currently, I'm diving deep into LARAVEL ,REACT.<br><br>🌱 Currently Learning: Adobe Photoshop ,Adobe Illustrator .<br>💻 Technologies & Tools: HTML5 ,CSS ,SASS ,JAVASCRIPT ,JQUERY ,REACT ,PHP ,MYSQL ,LARAVEL .<br>🔭 Projects I’m working on: ZIZO-Chat .<br>
+Hey there, I'm <b>Anas Sultan!</b> 👋<br>I'm a passionate software developer with a love for building Web Apps . <br>I enjoy solving problems and collaborating with others to create innovative solutions. <br>Currently, I'm diving deep into LARAVEL ,REACT.<br><br>🌱 Currently <b>Learning:</b> Adobe Photoshop ,Adobe Illustrator .<br>💻 <b>Technologies & Tools:</b> HTML5 ,CSS ,SASS ,JAVASCRIPT ,JQUERY ,REACT ,PHP ,MYSQL ,LARAVEL .<br>🔭 <b>Projects I’m working on:</b> ZIZO-Chat .<br>
 
 
 ## 🌐 Socials:
